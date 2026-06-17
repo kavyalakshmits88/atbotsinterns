@@ -1,16 +1,3 @@
-# ROS2 build artifacts
 build/
 install/
 log/
-*.pyc
-__pycache__/
-*.egg-info/
-.ros/
-
-# IDE files
-.vscode/
-.idea/
-
-# OS files
-.DS_Store
-Thumbs.db
